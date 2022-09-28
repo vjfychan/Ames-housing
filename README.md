@@ -1,7 +1,3 @@
-# Ames-housing
-
-#Summary
-
 ## Problem Statement
 We intend to build a model which can effectively predict housing sale prices. We further intend to identify features that contribute to changes in housing prices so as to equip real estate agents with the knowledge to better advise their clients and improve their sales margin
 
